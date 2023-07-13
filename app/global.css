@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#globe {
+  top: 0;
+  left: 0;
+}
